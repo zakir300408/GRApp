@@ -1,0 +1,18 @@
+{
+  "trial_name": "trial_0",
+  "save_mode": "xlsx",
+  "height": 1.79,
+  "weight": 59.0,
+  "last_connect_sensors": [
+    "68:0A:E2:53:24:09",
+    "68:0A:E2:53:23:F0",
+    "68:0A:E2:53:24:06",
+    "68:0A:E2:53:24:05",
+    "68:0A:E2:53:23:F3",
+    "68:0A:E2:53:23:F2",
+    "68:0A:E2:53:23:FD",
+    "68:0A:E2:53:23:FE"],
+  "last_connect_feedback": [],
+  "local_time": 0
+}
+
